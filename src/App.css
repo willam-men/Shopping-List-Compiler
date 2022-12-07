@@ -1,0 +1,35 @@
+.App {
+  height: 100vh;
+  display:flex;
+  flex-direction: column;
+}
+.App-header {
+  display:flex;
+  max-height: 10vh;
+  background: #F45B69;
+}
+
+.App-container {
+  background: #F45B69;
+  height: 90vh;
+  display:flex;
+  flex-direction: column;
+}
+
+
+.Home-container {
+  height: 90vh;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.drip {
+  display:flex;
+}
+
+.drip > img {
+  object-fit: cover;
+  width: 100%;
+  background-color: #FFE9BA;
+}
