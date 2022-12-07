@@ -69,7 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-=======
 # Shopping-List-Compiler
 Paste links to recipes or photos of recipes and a condensed shopping list will be generated for you!
 >>>>>>> f29529d76c2a46fbab603b4c858b52d27fb789b8
